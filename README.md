@@ -1,2 +1,6 @@
 # [Update 0725]
-We will release a toy example using the Low-Rank Tensor Functional Representation for modeling 3-dimensional traffic flow data.
+- We release a toy example using the Low-Rank Tensor Functional Representation for modeling 3-dimensional traffic flow data.
+- More demonstrations will be updated upon the publication of our paper.
+
+Nie T, Qin G, Ma W, et al. Spatiotemporal Implicit Neural Representation as a Generalized Traffic Data Learner[J]. arXiv preprint arXiv:2405.03185, 2024.
+[arXiv](https://doi.org/10.48550/arXiv.2405.03185)
