@@ -1,2 +1,2 @@
-# Coming soon
-We will release several interesting examples on spatiotemporal traffic data modeling here.
+# [Update 0725]
+We will release a toy example using the Low-Rank Tensor Functional Representation for modeling 3-dimensional traffic flow data.
