@@ -1,4 +1,5 @@
-# [Update 0725]
+# [Update Nov]
+- Our ST-INR paper has been accepted for publication in an upcoming issue of Transportation Research Part C! After a careful preparation, the model implementation as well as experiments will be uploaded soon.
 - We release a toy example using the Low-Rank Tensor Functional Representation for modeling 3-dimensional traffic flow data.
 - More demonstrations will be updated upon the publication of our paper.
 
